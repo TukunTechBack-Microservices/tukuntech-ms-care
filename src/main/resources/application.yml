@@ -1,6 +1,6 @@
 spring:
   application:
-    name: tukuntech-ms-profiles
+    name: tukuntech-ms-care
 
   datasource:
     url: ${DB_URL}
